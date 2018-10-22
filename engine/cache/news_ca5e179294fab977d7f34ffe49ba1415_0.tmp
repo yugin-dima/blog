@@ -1,0 +1,19 @@
+<div class="item">
+	<a href="http://blog/o-skripte/1-post1.html" title="Добро пожаловать">
+		<div class="item_cont">
+			<b class="date"><time datetime="2018-10-22">22/10</time></b>
+			<span class="title">Добро пожаловать</span>
+		</div>
+		<div class="item_bg cover" style="background-image: url(http://blog/uploads/boxsmall.jpg)"></div>
+	</a>
+	
+</div><div class="item">
+	<a href="http://blog/o-skripte/2-post2.html" title="Приобретение и оплата скрипта">
+		<div class="item_cont">
+			<b class="date"><time datetime="2018-10-22">22/10</time></b>
+			<span class="title">Приобретение и оплата скрипта</span>
+		</div>
+		<div class="item_bg cover"></div>
+	</a>
+	
+</div>

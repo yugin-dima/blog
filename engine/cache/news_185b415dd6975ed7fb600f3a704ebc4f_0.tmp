@@ -1,0 +1,25 @@
+<div class="story_line">
+	<a href="http://blog/o-skripte/1-post1.html" title="Добро пожаловать">
+		<i class="image cover" style="background-image: url(http://blog/uploads/boxsmall.jpg)"></i>
+		<div>
+			<b class="date"><time datetime="2018-10-22">22/10/2018</time></b>
+			<span class="title">Добро пожаловать</span>
+		</div>
+	</a>
+</div><div class="story_line">
+	<a href="http://blog/o-skripte/2-post2.html" title="Приобретение и оплата скрипта">
+		<i class="image cover" style="background-image: url({THEME}/dleimages/no_image.jpg)"></i>
+		<div>
+			<b class="date"><time datetime="2018-10-22">22/10/2018</time></b>
+			<span class="title">Приобретение и оплата скрипта</span>
+		</div>
+	</a>
+</div><div class="story_line">
+	<a href="http://blog/o-skripte/3-post4.html" title="Осуществление технической поддержки скрипта">
+		<i class="image cover" style="background-image: url({THEME}/dleimages/no_image.jpg)"></i>
+		<div>
+			<b class="date"><time datetime="2018-10-22">22/10/2018</time></b>
+			<span class="title">Осуществление технической поддержки скрипта</span>
+		</div>
+	</a>
+</div>

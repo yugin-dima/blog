@@ -1,0 +1,31 @@
+<div class="grid_1_4">
+	<a href="http://blog/o-skripte/1-post1.html" title="Добро пожаловать">
+		<span class="hover_arrow">
+			<svg class="icon icon-arrow_right"><use xlink:href="#icon-arrow_right"></use></svg>
+		</span>
+		<b class="title">Добро пожаловать</b>
+		<div class="text">
+			Добро пожаловать на демонстрационную страницу движка DataLife Engine. DataLife Engine - это многопользовательский новостной движок, обладающий большими
+		</div>
+	</a>
+</div><div class="grid_1_4">
+	<a href="http://blog/o-skripte/2-post2.html" title="Приобретение и оплата скрипта">
+		<span class="hover_arrow">
+			<svg class="icon icon-arrow_right"><use xlink:href="#icon-arrow_right"></use></svg>
+		</span>
+		<b class="title">Приобретение и оплата скрипта</b>
+		<div class="text">
+			Уважаемые вебмастера хотим для вас сделать небольшое дополнение. Прежде чем обратиться с каким-либо вопросом в службу поддержки скрипта, убедитесь что вы
+		</div>
+	</a>
+</div><div class="grid_1_4">
+	<a href="http://blog/o-skripte/3-post4.html" title="Осуществление технической поддержки скрипта">
+		<span class="hover_arrow">
+			<svg class="icon icon-arrow_right"><use xlink:href="#icon-arrow_right"></use></svg>
+		</span>
+		<b class="title">Осуществление технической поддержки скрипта</b>
+		<div class="text">
+			Техническая поддержка скрипта осуществляется силами форума поддержки, а также по E-Mail. По мере поступления возникших у вас вопросов мы стараемся ответить на
+		</div>
+	</a>
+</div>
